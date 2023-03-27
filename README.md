@@ -8,9 +8,10 @@ This is a short project that: <br />
 
 ## Setup:
 
-sudo apt install ffmpeg
-yes | conda create -n hyperfly python=3.8
-conda activate hyperfly
-yes | pip install -r requirements.txt
-
+sudo apt install ffmpeg  <br />
+yes | conda create -n hyperfly python=3.8 <br />
+conda activate hyperfly <br />
+yes | pip install -r requirements.txt <br />
+<br />
+## Execute:
 python _2_ray_run_and_show.py
